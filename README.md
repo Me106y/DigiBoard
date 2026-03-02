@@ -1,2 +1,5 @@
 # DigiBoard
-DigiBoard 是一个实时、运行在端侧设备的移动系统，旨在消除白板演示中的人物遮挡，并以低延迟和高视觉保真度重建白板内容DigiBoard is a real-time mobile system running on edge devices, designed to eliminate the obstruction of people in whiteboard presentations and to reconstruct the whiteboard content with low latency and high visual fidelity.
+DigiBoard 是一个实时、运行在端侧设备的移动系统，旨在消除白板演示中的人物遮挡，并以低延迟和高视觉保真度重建白板内容
+<img width="2711" height="1525" alt="image" src="https://github.com/user-attachments/assets/b9d62b60-e314-4ca0-9520-a2d72f306c9e" />
+
+DigiBoard 的工作流程始于对输入视频帧的实时语义感知，利用集成 EASPP 模块的轻量级分割模型精确提取演示者的人像掩模，进而准确定位被遮挡的白板区域；随后，系统进入时间序列重建阶段，通过高效维护的历史帧缓冲区检索并填充先前暴露的像素信息，确保在演示者移动时能够实现背景内容的无缝修复与时序稳定；最后，修复后的画面会进入自适应增强流水线，经过自动白平衡校正、自适应二值化处理及色彩还原，彻底消除光影不均和环境噪声，最终生成如同电子文档般清晰、无遮挡的白板数字化输出。
