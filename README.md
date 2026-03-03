@@ -13,8 +13,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/平台-Android%20%7C%20iOS%20%7C%20Linux-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/框架-PyTorch%20%7C%20ONNX-orange" alt="Framework">
-  <img src="https://img.shields.io/badge/延迟-<50ms-brightgreen" alt="Latency">
+  <img src="https://img.shields.io/badge/框架-Paddle%20%7C%20ONNX-orange" alt="Framework">
+  <img src="https://img.shields.io/badge/延迟-30fps-brightgreen" alt="Latency">
   <img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="License">
 </p>
 </div>
