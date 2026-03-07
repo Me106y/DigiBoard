@@ -98,7 +98,7 @@ Connect your Android device and click the **Run** button to experience DigiBoard
 | --- | --- |
 | **Segmentation Model Size** | 1.97 M |
 | **Computational Cost** | 0.102 G FLOPs |
-| **Average Latency** | 33.1 ms (Tested on Mi 10) |
+| **Average Latency** | 31.1 ms (Tested on Mi 10) |
 | **Segmentation Accuracy** | 0.9096 (mIoU) |
 
 ## 🙏 Acknowledgments
