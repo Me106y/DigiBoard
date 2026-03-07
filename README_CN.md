@@ -2,6 +2,7 @@
 <h1>DigiBoard ✨</h1>
 <h3>移动端数字化无遮挡白板系统 | 消除遮挡 · 低延迟 · 高保真</h3>
 
+Chinese | [English](README.md)
 <p align="center">
   <a href="#-简介">简介</a> •
   <a href="#-核心特性">核心特性</a> •
