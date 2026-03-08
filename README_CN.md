@@ -30,8 +30,7 @@ Chinese | [English](README.md)
 DigiBoard专为移动端和边缘设备设计，通过轻量级模型与高效算法，在保持高画质的同时实现实时处理。
 
 ## 🎥 演示视频
-
-https://youtu.be/U0TRvTYuAUQ
+https://github.com/user-attachments/assets/1f4ab039-659b-4eb4-8250-c13f2d39793a
 ## ✨ 核心特性
 
 - **🚀 实时端侧推理**：针对移动端深度优化，在主流手机上可达 **30FPS+** 的处理速度。
