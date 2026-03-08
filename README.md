@@ -33,7 +33,7 @@
 Specifically engineered for mobile and edge devices, DigiBoard achieves real-time processing through lightweight models and efficient algorithms while maintaining high image quality.
 
 ## 🎥 Demo Video
-https://github.com/user-attachments/assets/1f4ab039-659b-4eb4-8250-c13f2d39793a
+https://youtu.be/U0TRvTYuAUQ
 
 ## ✨ Key Features
 
